@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "question": "What does AI stand for?",
+    "options": [
+      "Artificial Intelligence",
+      "Automated Interface",
+      "Advanced Intelligence",
+      "Array Input"
+    ],
+    "answer": "Artificial Intelligence"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is an application of NLP?",
+    "options": [
+      "Speech Recognition",
+      "Image Classification",
+      "Pathfinding",
+      "Database Management"
+    ],
+    "answer": "Speech Recognition"
+  },
+  {
+    "id": 3,
+    "question": "What is a Neural Network?",
+    "options": [
+      "A computing system inspired by the brain",
+      "A network of physical computers",
+      "A type of database",
+      "A fast internet connection"
+    ],
+    "answer": "A computing system inspired by the brain"
+  },
+  {
+    "id": 4,
+    "question": "Who is known as the father of AI?",
+    "options": [
+      "Alan Turing",
+      "John McCarthy",
+      "Elon Musk",
+      "Ada Lovelace"
+    ],
+    "answer": "John McCarthy"
+  },
+  {
+    "id": 5,
+    "question": "Which algorithm is used in Reinforcement Learning?",
+    "options": [
+      "Q-Learning",
+      "K-Means",
+      "Linear Regression",
+      "Apriori"
+    ],
+    "answer": "Q-Learning"
+  },
+  {
+    "id": 6,
+    "question": "What is the primary function of an activation function in a neural network?",
+    "options": [
+      "Introduce non-linearity",
+      "Increase processing speed",
+      "Store data",
+      "Connect layers"
+    ],
+    "answer": "Introduce non-linearity"
+  },
+  {
+    "id": 7,
+    "question": "Which technique is used to prevent overfitting?",
+    "options": [
+      "Dropout",
+      "Gradient Descent",
+      "Max Pooling",
+      "Backpropagation"
+    ],
+    "answer": "Dropout"
+  },
+  {
+    "id": 8,
+    "question": "What does CNN stand for in Deep Learning?",
+    "options": [
+      "Convolutional Neural Network",
+      "Centralized Neural Network",
+      "Computer Neural Network",
+      "Connected Node Network"
+    ],
+    "answer": "Convolutional Neural Network"
+  },
+  {
+    "id": 9,
+    "question": "RNNs are primarily used for what type of data?",
+    "options": [
+      "Sequential Data",
+      "Image Data",
+      "Tabular Data",
+      "Audio Data Only"
+    ],
+    "answer": "Sequential Data"
+  },
+  {
+    "id": 10,
+    "question": "What is a major challenge in AI development?",
+    "options": [
+      "Data Bias",
+      "Too much processing power",
+      "Lack of algorithms",
+      "Unlimited memory"
+    ],
+    "answer": "Data Bias"
+  },
+  {
+    "id": 11,
+    "question": "The primary evaluation metric for Computer Vision, tasks is:",
+    "options": [
+      "F1-Score",
+      "Pixel density",
+      "Bandwidth",
+      "Clock speed"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 12,
+    "question": "A key limitation of traditional models in Natural Language Processing, is:",
+    "options": [
+      "Inability to capture long-term dependencies",
+      "Too much precision",
+      "Zero bias",
+      "Perfect accuracy"
+    ],
+    "answer": "Inability to capture long-term dependencies"
+  },
+  {
+    "id": 13,
+    "question": "Who popularized the term Computer Vision, in modern computing?",
+    "options": [
+      "Network engineers",
+      "Sales executives",
+      "Academic researchers",
+      "Web designers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 14,
+    "question": "Researchers in Computer Vision, often utilize:",
+    "options": [
+      "CRT monitors",
+      "Mechanical calculators",
+      "Analog clocks",
+      "GPUs and TPUs"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 15,
+    "question": "Which concept is fundamental to Reinforcement Learning, ?",
+    "options": [
+      "Relational databases",
+      "Object-oriented scaling",
+      "Optimization algorithms",
+      "HTML validation"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 16,
+    "question": "A major breakthrough in Machine Learning, occurred due to:",
+    "options": [
+      "Transformer architecture",
+      "Cloud storage",
+      "Quantum mechanics",
+      "Blockchain"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 17,
+    "question": "In the context of Deep Learning, what is the most critical factor?",
+    "options": [
+      "Internet speed",
+      "Hardware cost",
+      "Number of layers",
+      "Data quality"
+    ],
+    "answer": "Data quality"
+  },
+  {
+    "id": 18,
+    "question": "Who popularized the term Ethics in AI, in modern computing?",
+    "options": [
+      "Sales executives",
+      "Web designers",
+      "Academic researchers",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 19,
+    "question": "A major breakthrough in Reinforcement Learning, occurred due to:",
+    "options": [
+      "Quantum mechanics",
+      "Cloud storage",
+      "Transformer architecture",
+      "Blockchain"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 20,
+    "question": "When deploying a model for Natural Language Processing, what must be monitored?",
+    "options": [
+      "Concept drift",
+      "Memory leaks in DOM",
+      "Color palette",
+      "Disk RPM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 21,
+    "question": "Which concept is fundamental to Natural Language Processing, ?",
+    "options": [
+      "HTML validation",
+      "Relational databases",
+      "Optimization algorithms",
+      "Object-oriented scaling"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 22,
+    "question": "A major breakthrough in Ethics in AI, occurred due to:",
+    "options": [
+      "Quantum mechanics",
+      "Transformer architecture",
+      "Blockchain",
+      "Cloud storage"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 23,
+    "question": "Who popularized the term Computer Vision, in modern computing?",
+    "options": [
+      "Web designers",
+      "Network engineers",
+      "Academic researchers",
+      "Sales executives"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 24,
+    "question": "Which concept is fundamental to General AI Concepts, ?",
+    "options": [
+      "HTML validation",
+      "Relational databases",
+      "Optimization algorithms",
+      "Object-oriented scaling"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 25,
+    "question": "What problem does Natural Language Processing, aim to solve?",
+    "options": [
+      "Basic arithmetic",
+      "Complex pattern recognition",
+      "Static routing",
+      "Text formatting"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 26,
+    "question": "Who popularized the term Natural Language Processing, in modern computing?",
+    "options": [
+      "Network engineers",
+      "Sales executives",
+      "Academic researchers",
+      "Web designers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 27,
+    "question": "What problem does Robotics, aim to solve?",
+    "options": [
+      "Static routing",
+      "Basic arithmetic",
+      "Text formatting",
+      "Complex pattern recognition"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 28,
+    "question": "The primary evaluation metric for Computer Vision, tasks is:",
+    "options": [
+      "F1-Score",
+      "Pixel density",
+      "Bandwidth",
+      "Clock speed"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 29,
+    "question": "Researchers in Reinforcement Learning, often utilize:",
+    "options": [
+      "GPUs and TPUs",
+      "Analog clocks",
+      "Mechanical calculators",
+      "CRT monitors"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 30,
+    "question": "Which concept is fundamental to Deep Learning, ?",
+    "options": [
+      "Object-oriented scaling",
+      "Optimization algorithms",
+      "HTML validation",
+      "Relational databases"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 31,
+    "question": "In the context of Natural Language Processing, what is the most critical factor?",
+    "options": [
+      "Data quality",
+      "Hardware cost",
+      "Internet speed",
+      "Number of layers"
+    ],
+    "answer": "Data quality"
+  },
+  {
+    "id": 32,
+    "question": "Who popularized the term Natural Language Processing, in modern computing?",
+    "options": [
+      "Web designers",
+      "Academic researchers",
+      "Sales executives",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 33,
+    "question": "What problem does Ethics in AI, aim to solve?",
+    "options": [
+      "Complex pattern recognition",
+      "Static routing",
+      "Basic arithmetic",
+      "Text formatting"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 34,
+    "question": "The primary evaluation metric for Natural Language Processing, tasks is:",
+    "options": [
+      "Pixel density",
+      "Clock speed",
+      "Bandwidth",
+      "F1-Score"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 35,
+    "question": "The primary evaluation metric for General AI Concepts, tasks is:",
+    "options": [
+      "Bandwidth",
+      "F1-Score",
+      "Clock speed",
+      "Pixel density"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 36,
+    "question": "A major breakthrough in Deep Learning, occurred due to:",
+    "options": [
+      "Quantum mechanics",
+      "Blockchain",
+      "Transformer architecture",
+      "Cloud storage"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 37,
+    "question": "A key limitation of traditional models in Computer Vision, is:",
+    "options": [
+      "Inability to capture long-term dependencies",
+      "Zero bias",
+      "Too much precision",
+      "Perfect accuracy"
+    ],
+    "answer": "Inability to capture long-term dependencies"
+  },
+  {
+    "id": 38,
+    "question": "Which concept is fundamental to Robotics, ?",
+    "options": [
+      "Optimization algorithms",
+      "HTML validation",
+      "Object-oriented scaling",
+      "Relational databases"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 39,
+    "question": "A key limitation of traditional models in General AI Concepts, is:",
+    "options": [
+      "Perfect accuracy",
+      "Too much precision",
+      "Inability to capture long-term dependencies",
+      "Zero bias"
+    ],
+    "answer": "Inability to capture long-term dependencies"
+  },
+  {
+    "id": 40,
+    "question": "The primary evaluation metric for Natural Language Processing, tasks is:",
+    "options": [
+      "Clock speed",
+      "Pixel density",
+      "F1-Score",
+      "Bandwidth"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 41,
+    "question": "In the context of Robotics, what is the most critical factor?",
+    "options": [
+      "Internet speed",
+      "Number of layers",
+      "Hardware cost",
+      "Data quality"
+    ],
+    "answer": "Data quality"
+  },
+  {
+    "id": 42,
+    "question": "A major breakthrough in Deep Learning, occurred due to:",
+    "options": [
+      "Blockchain",
+      "Transformer architecture",
+      "Quantum mechanics",
+      "Cloud storage"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 43,
+    "question": "When deploying a model for General AI Concepts, what must be monitored?",
+    "options": [
+      "Disk RPM",
+      "Color palette",
+      "Memory leaks in DOM",
+      "Concept drift"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 44,
+    "question": "When deploying a model for Computer Vision, what must be monitored?",
+    "options": [
+      "Concept drift",
+      "Memory leaks in DOM",
+      "Disk RPM",
+      "Color palette"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 45,
+    "question": "What problem does Reinforcement Learning, aim to solve?",
+    "options": [
+      "Text formatting",
+      "Basic arithmetic",
+      "Complex pattern recognition",
+      "Static routing"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 46,
+    "question": "What problem does General AI Concepts, aim to solve?",
+    "options": [
+      "Basic arithmetic",
+      "Static routing",
+      "Text formatting",
+      "Complex pattern recognition"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 47,
+    "question": "A key limitation of traditional models in Natural Language Processing, is:",
+    "options": [
+      "Perfect accuracy",
+      "Zero bias",
+      "Too much precision",
+      "Inability to capture long-term dependencies"
+    ],
+    "answer": "Inability to capture long-term dependencies"
+  },
+  {
+    "id": 48,
+    "question": "When deploying a model for Ethics in AI, what must be monitored?",
+    "options": [
+      "Concept drift",
+      "Color palette",
+      "Disk RPM",
+      "Memory leaks in DOM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 49,
+    "question": "Researchers in Machine Learning, often utilize:",
+    "options": [
+      "CRT monitors",
+      "GPUs and TPUs",
+      "Analog clocks",
+      "Mechanical calculators"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 50,
+    "question": "Which concept is fundamental to Natural Language Processing, ?",
+    "options": [
+      "HTML validation",
+      "Object-oriented scaling",
+      "Relational databases",
+      "Optimization algorithms"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 51,
+    "question": "What problem does Natural Language Processing, aim to solve?",
+    "options": [
+      "Text formatting",
+      "Static routing",
+      "Basic arithmetic",
+      "Complex pattern recognition"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 52,
+    "question": "What problem does General AI Concepts, aim to solve?",
+    "options": [
+      "Text formatting",
+      "Basic arithmetic",
+      "Complex pattern recognition",
+      "Static routing"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 53,
+    "question": "Which library is most associated with Natural Language Processing, ?",
+    "options": [
+      "Bootstrap",
+      "TensorFlow/PyTorch",
+      "React",
+      "jQuery"
+    ],
+    "answer": "TensorFlow/PyTorch"
+  },
+  {
+    "id": 54,
+    "question": "Researchers in General AI Concepts, often utilize:",
+    "options": [
+      "GPUs and TPUs",
+      "Analog clocks",
+      "CRT monitors",
+      "Mechanical calculators"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 55,
+    "question": "A key limitation of traditional models in Computer Vision, is:",
+    "options": [
+      "Perfect accuracy",
+      "Too much precision",
+      "Inability to capture long-term dependencies",
+      "Zero bias"
+    ],
+    "answer": "Inability to capture long-term dependencies"
+  },
+  {
+    "id": 56,
+    "question": "Which library is most associated with Deep Learning, ?",
+    "options": [
+      "jQuery",
+      "React",
+      "TensorFlow/PyTorch",
+      "Bootstrap"
+    ],
+    "answer": "TensorFlow/PyTorch"
+  },
+  {
+    "id": 57,
+    "question": "Who popularized the term Robotics, in modern computing?",
+    "options": [
+      "Network engineers",
+      "Sales executives",
+      "Academic researchers",
+      "Web designers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 58,
+    "question": "When deploying a model for General AI Concepts, what must be monitored?",
+    "options": [
+      "Concept drift",
+      "Disk RPM",
+      "Color palette",
+      "Memory leaks in DOM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 59,
+    "question": "Which library is most associated with General AI Concepts, ?",
+    "options": [
+      "React",
+      "TensorFlow/PyTorch",
+      "Bootstrap",
+      "jQuery"
+    ],
+    "answer": "TensorFlow/PyTorch"
+  },
+  {
+    "id": 60,
+    "question": "In the context of Reinforcement Learning, what is the most critical factor?",
+    "options": [
+      "Hardware cost",
+      "Number of layers",
+      "Internet speed",
+      "Data quality"
+    ],
+    "answer": "Data quality"
+  },
+  {
+    "id": 61,
+    "question": "The primary evaluation metric for Deep Learning, tasks is:",
+    "options": [
+      "Bandwidth",
+      "F1-Score",
+      "Clock speed",
+      "Pixel density"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 62,
+    "question": "What problem does Machine Learning, aim to solve?",
+    "options": [
+      "Complex pattern recognition",
+      "Basic arithmetic",
+      "Text formatting",
+      "Static routing"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 63,
+    "question": "Which concept is fundamental to Deep Learning, ?",
+    "options": [
+      "Object-oriented scaling",
+      "Relational databases",
+      "Optimization algorithms",
+      "HTML validation"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 64,
+    "question": "Researchers in Computer Vision, often utilize:",
+    "options": [
+      "GPUs and TPUs",
+      "Analog clocks",
+      "Mechanical calculators",
+      "CRT monitors"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 65,
+    "question": "Who popularized the term Machine Learning, in modern computing?",
+    "options": [
+      "Academic researchers",
+      "Sales executives",
+      "Web designers",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 66,
+    "question": "Which library is most associated with Natural Language Processing, ?",
+    "options": [
+      "React",
+      "jQuery",
+      "Bootstrap",
+      "TensorFlow/PyTorch"
+    ],
+    "answer": "TensorFlow/PyTorch"
+  },
+  {
+    "id": 67,
+    "question": "Researchers in Robotics, often utilize:",
+    "options": [
+      "Mechanical calculators",
+      "GPUs and TPUs",
+      "Analog clocks",
+      "CRT monitors"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 68,
+    "question": "When deploying a model for Machine Learning, what must be monitored?",
+    "options": [
+      "Color palette",
+      "Concept drift",
+      "Disk RPM",
+      "Memory leaks in DOM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 69,
+    "question": "Who popularized the term Machine Learning, in modern computing?",
+    "options": [
+      "Web designers",
+      "Academic researchers",
+      "Sales executives",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 70,
+    "question": "When deploying a model for Ethics in AI, what must be monitored?",
+    "options": [
+      "Disk RPM",
+      "Memory leaks in DOM",
+      "Concept drift",
+      "Color palette"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 71,
+    "question": "A key limitation of traditional models in Robotics, is:",
+    "options": [
+      "Too much precision",
+      "Perfect accuracy",
+      "Inability to capture long-term dependencies",
+      "Zero bias"
+    ],
+    "answer": "Inability to capture long-term dependencies"
+  },
+  {
+    "id": 72,
+    "question": "A major breakthrough in Computer Vision, occurred due to:",
+    "options": [
+      "Cloud storage",
+      "Blockchain",
+      "Quantum mechanics",
+      "Transformer architecture"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 73,
+    "question": "When deploying a model for Robotics, what must be monitored?",
+    "options": [
+      "Memory leaks in DOM",
+      "Color palette",
+      "Disk RPM",
+      "Concept drift"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 74,
+    "question": "Who popularized the term Reinforcement Learning, in modern computing?",
+    "options": [
+      "Network engineers",
+      "Academic researchers",
+      "Web designers",
+      "Sales executives"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 75,
+    "question": "Which concept is fundamental to Natural Language Processing, ?",
+    "options": [
+      "Relational databases",
+      "HTML validation",
+      "Optimization algorithms",
+      "Object-oriented scaling"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 76,
+    "question": "Who popularized the term Ethics in AI, in modern computing?",
+    "options": [
+      "Sales executives",
+      "Academic researchers",
+      "Network engineers",
+      "Web designers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 77,
+    "question": "When deploying a model for Deep Learning, what must be monitored?",
+    "options": [
+      "Color palette",
+      "Concept drift",
+      "Memory leaks in DOM",
+      "Disk RPM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 78,
+    "question": "The primary evaluation metric for Computer Vision, tasks is:",
+    "options": [
+      "Clock speed",
+      "F1-Score",
+      "Pixel density",
+      "Bandwidth"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 79,
+    "question": "The primary evaluation metric for Ethics in AI, tasks is:",
+    "options": [
+      "Bandwidth",
+      "Clock speed",
+      "F1-Score",
+      "Pixel density"
+    ],
+    "answer": "F1-Score"
+  },
+  {
+    "id": 80,
+    "question": "Researchers in General AI Concepts, often utilize:",
+    "options": [
+      "CRT monitors",
+      "Mechanical calculators",
+      "GPUs and TPUs",
+      "Analog clocks"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 81,
+    "question": "What problem does Reinforcement Learning, aim to solve?",
+    "options": [
+      "Complex pattern recognition",
+      "Static routing",
+      "Text formatting",
+      "Basic arithmetic"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 82,
+    "question": "Which library is most associated with Reinforcement Learning, ?",
+    "options": [
+      "React",
+      "TensorFlow/PyTorch",
+      "jQuery",
+      "Bootstrap"
+    ],
+    "answer": "TensorFlow/PyTorch"
+  },
+  {
+    "id": 83,
+    "question": "What problem does Machine Learning, aim to solve?",
+    "options": [
+      "Complex pattern recognition",
+      "Basic arithmetic",
+      "Static routing",
+      "Text formatting"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 84,
+    "question": "When deploying a model for General AI Concepts, what must be monitored?",
+    "options": [
+      "Color palette",
+      "Disk RPM",
+      "Concept drift",
+      "Memory leaks in DOM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 85,
+    "question": "When deploying a model for Computer Vision, what must be monitored?",
+    "options": [
+      "Color palette",
+      "Concept drift",
+      "Memory leaks in DOM",
+      "Disk RPM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 86,
+    "question": "Who popularized the term Computer Vision, in modern computing?",
+    "options": [
+      "Web designers",
+      "Academic researchers",
+      "Sales executives",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 87,
+    "question": "Who popularized the term Ethics in AI, in modern computing?",
+    "options": [
+      "Academic researchers",
+      "Web designers",
+      "Sales executives",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 88,
+    "question": "When deploying a model for Reinforcement Learning, what must be monitored?",
+    "options": [
+      "Color palette",
+      "Memory leaks in DOM",
+      "Disk RPM",
+      "Concept drift"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 89,
+    "question": "Which concept is fundamental to Deep Learning, ?",
+    "options": [
+      "HTML validation",
+      "Object-oriented scaling",
+      "Relational databases",
+      "Optimization algorithms"
+    ],
+    "answer": "Optimization algorithms"
+  },
+  {
+    "id": 90,
+    "question": "Who popularized the term General AI Concepts, in modern computing?",
+    "options": [
+      "Web designers",
+      "Academic researchers",
+      "Sales executives",
+      "Network engineers"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 91,
+    "question": "Who popularized the term Machine Learning, in modern computing?",
+    "options": [
+      "Network engineers",
+      "Academic researchers",
+      "Web designers",
+      "Sales executives"
+    ],
+    "answer": "Academic researchers"
+  },
+  {
+    "id": 92,
+    "question": "Researchers in Natural Language Processing, often utilize:",
+    "options": [
+      "Analog clocks",
+      "GPUs and TPUs",
+      "Mechanical calculators",
+      "CRT monitors"
+    ],
+    "answer": "GPUs and TPUs"
+  },
+  {
+    "id": 93,
+    "question": "A major breakthrough in Reinforcement Learning, occurred due to:",
+    "options": [
+      "Blockchain",
+      "Cloud storage",
+      "Transformer architecture",
+      "Quantum mechanics"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 94,
+    "question": "What problem does Ethics in AI, aim to solve?",
+    "options": [
+      "Complex pattern recognition",
+      "Basic arithmetic",
+      "Text formatting",
+      "Static routing"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 95,
+    "question": "A major breakthrough in Reinforcement Learning, occurred due to:",
+    "options": [
+      "Blockchain",
+      "Transformer architecture",
+      "Cloud storage",
+      "Quantum mechanics"
+    ],
+    "answer": "Transformer architecture"
+  },
+  {
+    "id": 96,
+    "question": "When deploying a model for Reinforcement Learning, what must be monitored?",
+    "options": [
+      "Concept drift",
+      "Color palette",
+      "Disk RPM",
+      "Memory leaks in DOM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 97,
+    "question": "What problem does Natural Language Processing, aim to solve?",
+    "options": [
+      "Complex pattern recognition",
+      "Basic arithmetic",
+      "Text formatting",
+      "Static routing"
+    ],
+    "answer": "Complex pattern recognition"
+  },
+  {
+    "id": 98,
+    "question": "When deploying a model for Machine Learning, what must be monitored?",
+    "options": [
+      "Concept drift",
+      "Color palette",
+      "Disk RPM",
+      "Memory leaks in DOM"
+    ],
+    "answer": "Concept drift"
+  },
+  {
+    "id": 99,
+    "question": "Which library is most associated with Robotics, ?",
+    "options": [
+      "TensorFlow/PyTorch",
+      "jQuery",
+      "React",
+      "Bootstrap"
+    ],
+    "answer": "TensorFlow/PyTorch"
+  },
+  {
+    "id": 100,
+    "question": "Researchers in Computer Vision, often utilize:",
+    "options": [
+      "Mechanical calculators",
+      "GPUs and TPUs",
+      "Analog clocks",
+      "CRT monitors"
+    ],
+    "answer": "GPUs and TPUs"
+  }
+]

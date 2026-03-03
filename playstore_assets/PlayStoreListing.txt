@@ -1,0 +1,34 @@
+======================================================
+Google Play Store Listing Details
+======================================================
+
+APP NAME (Max 30 chars):
+Quick Ai Test
+
+SHORT DESCRIPTION (Max 80 chars):
+Test your AI & Machine Learning knowledge with 100+ questions in a beautiful app!
+
+FULL DESCRIPTION (Max 4000 chars):
+Welcome to Quick Ai Test, the ultimate Artificial Intelligence and Machine Learning quiz application! 
+
+Are you a tech enthusiast, a student, or a professional looking to sharpen your knowledge of modern AI concepts? Quick Ai Test features a carefully curated database of over 100 questions covering everything from basic Neural Networks and Deep Learning algorithms to Natural Language Processing and AI ethics.
+
+Key Features:
+✨ Stunning Modern Interface: Enjoy a gorgeous glassmorphism design with fluid animations and premium typography.
+🧠 100+ Unique Questions: Handcrafted questions covering all major domains of Artificial Intelligence.
+📊 Instant Scoring & Feedback: Track your correct answers and view a comprehensive score breakdown at the end of every 10-question round.
+⚡ Fast & Offline: An incredibly light app that loads instantly and requires zero permissions.
+
+Whether you're preparing for an exam, an interview, or simply satisfying your curiosity about the future of technology, Quick Ai test is your perfect companion.
+
+Download now and step into the future of Artificial Intelligence!
+
+======================================================
+CHECKLIST FOR PLAY CONSOLE
+======================================================
+1. Upload your App Bundle: `app-release.aab` (found in `android/app/build/outputs/bundle/release/`)
+2. App Icon: Upload `app_icon_512.png` (found in this folder)
+3. Feature Graphic: Upload `feature_graphic.png` (found in this folder)
+4. Privacy Policy: Host `privacy_policy.html` on a free site (like GitHub Pages, Google Sites, or a free Blogger) and paste the URL into the "App Content" -> "Privacy Policy" section.
+5. Screenshots: 
+   - Since the Play Console requires screenshots of the app running, simply install the `app-release.apk` on your own Android phone, open the app, and take 2-4 screenshots (e.g., the Start Screen, a Question, and the Result Screen). Transfer those to your computer and upload them directly.
